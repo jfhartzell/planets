@@ -1,2 +1,2 @@
 # planets
-software.carpentry.workshop.project.to.colonize.Mars
+project.to.colonize.Mars
